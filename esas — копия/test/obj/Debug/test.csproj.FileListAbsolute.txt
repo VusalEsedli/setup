@@ -1,0 +1,77 @@
+C:\Users\P203\Desktop\test\test\bin\Debug\test.exe.config
+C:\Users\P203\Desktop\test\test\bin\Debug\test.exe
+C:\Users\P203\Desktop\test\test\bin\Debug\test.pdb
+C:\Users\P203\Desktop\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\P203\Desktop\test\test\obj\Debug\test.Form1.resources
+C:\Users\P203\Desktop\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\P203\Desktop\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\P203\Desktop\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\P203\Desktop\test\test\obj\Debug\test.exe
+C:\Users\P203\Desktop\test\test\obj\Debug\test.pdb
+C:\Users\P203\Desktop\test\test\obj\Debug\test.Form2.resources
+C:\Users\P203\Desktop\esas\test\bin\Debug\test.exe.config
+C:\Users\P203\Desktop\esas\test\bin\Debug\test.exe
+C:\Users\P203\Desktop\esas\test\bin\Debug\test.pdb
+C:\Users\P203\Desktop\esas\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\P203\Desktop\esas\test\obj\Debug\test.Form1.resources
+C:\Users\P203\Desktop\esas\test\obj\Debug\test.Form2.resources
+C:\Users\P203\Desktop\esas\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\P203\Desktop\esas\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\P203\Desktop\esas\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\P203\Desktop\esas\test\obj\Debug\test.exe
+C:\Users\P203\Desktop\esas\test\obj\Debug\test.pdb
+F:\kohne\esas\test\bin\Debug\test.exe.config
+F:\kohne\esas\test\bin\Debug\test.exe
+F:\kohne\esas\test\bin\Debug\test.pdb
+F:\kohne\esas\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+F:\kohne\esas\test\obj\Debug\test.Form1.resources
+F:\kohne\esas\test\obj\Debug\test.Form2.resources
+F:\kohne\esas\test\obj\Debug\test.Properties.Resources.resources
+F:\kohne\esas\test\obj\Debug\test.csproj.GenerateResource.Cache
+F:\kohne\esas\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\kohne\esas\test\obj\Debug\test.exe
+F:\kohne\esas\test\obj\Debug\test.pdb
+D:\kohne\esas\test\bin\Debug\test.exe.config
+D:\kohne\esas\test\bin\Debug\test.exe
+D:\kohne\esas\test\bin\Debug\test.pdb
+D:\kohne\esas\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\kohne\esas\test\obj\Debug\test.Form1.resources
+D:\kohne\esas\test\obj\Debug\test.Form2.resources
+D:\kohne\esas\test\obj\Debug\test.Properties.Resources.resources
+D:\kohne\esas\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\kohne\esas\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\kohne\esas\test\obj\Debug\test.exe
+D:\kohne\esas\test\obj\Debug\test.pdb
+F:\esas\test\bin\Debug\test.exe.config
+F:\esas\test\bin\Debug\test.exe
+F:\esas\test\bin\Debug\test.pdb
+F:\esas\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+F:\esas\test\obj\Debug\test.Form1.resources
+F:\esas\test\obj\Debug\test.Form2.resources
+F:\esas\test\obj\Debug\test.Properties.Resources.resources
+F:\esas\test\obj\Debug\test.csproj.GenerateResource.Cache
+F:\esas\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+F:\esas\test\obj\Debug\test.exe
+F:\esas\test\obj\Debug\test.pdb
+D:\esas\test\bin\Debug\test.exe.config
+D:\esas\test\bin\Debug\test.exe
+D:\esas\test\bin\Debug\test.pdb
+D:\esas\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\esas\test\obj\Debug\test.Form1.resources
+D:\esas\test\obj\Debug\test.Form2.resources
+D:\esas\test\obj\Debug\test.Properties.Resources.resources
+D:\esas\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\esas\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\esas\test\obj\Debug\test.exe
+D:\esas\test\obj\Debug\test.pdb
+D:\esas — копия\test\bin\Debug\test.exe.config
+D:\esas — копия\test\bin\Debug\test.exe
+D:\esas — копия\test\bin\Debug\test.pdb
+D:\esas — копия\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\esas — копия\test\obj\Debug\test.Form1.resources
+D:\esas — копия\test\obj\Debug\test.Form2.resources
+D:\esas — копия\test\obj\Debug\test.Properties.Resources.resources
+D:\esas — копия\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\esas — копия\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\esas — копия\test\obj\Debug\test.exe
+D:\esas — копия\test\obj\Debug\test.pdb
